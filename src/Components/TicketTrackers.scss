@@ -1,0 +1,33 @@
+
+.card{ 
+    border: 1px black solid;
+    width: 1fr;
+    border-radius: 60px;
+    background-color: grey;
+    color: black;
+
+}
+
+.counter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:  blue solid 2px;
+}
+
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    border: red solid 2px;
+    font-family: 'Courier New', Courier, monospace;
+    size: 30px;    
+}
+
+button{
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    
+}
